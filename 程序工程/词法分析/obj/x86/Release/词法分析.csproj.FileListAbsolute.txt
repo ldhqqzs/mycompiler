@@ -1,0 +1,8 @@
+C:\Users\杨萧玉\Documents\Visual Studio 2010\Projects\词法分析\词法分析\bin\Release\词法分析.exe
+C:\Users\杨萧玉\Documents\Visual Studio 2010\Projects\词法分析\词法分析\bin\Release\词法分析.pdb
+C:\Users\杨萧玉\Documents\Visual Studio 2010\Projects\词法分析\词法分析\obj\x86\Release\词法分析.Form1.resources
+C:\Users\杨萧玉\Documents\Visual Studio 2010\Projects\词法分析\词法分析\obj\x86\Release\词法分析.Properties.Resources.resources
+C:\Users\杨萧玉\Documents\Visual Studio 2010\Projects\词法分析\词法分析\obj\x86\Release\词法分析.csproj.GenerateResource.Cache
+C:\Users\杨萧玉\Documents\Visual Studio 2010\Projects\词法分析\词法分析\obj\x86\Release\词法分析.exe
+C:\Users\杨萧玉\Documents\Visual Studio 2010\Projects\词法分析\词法分析\obj\x86\Release\词法分析.pdb
+C:\Users\杨萧玉\Documents\Visual Studio 2010\Projects\词法分析\词法分析\obj\x86\Release\词法分析.csprojResolveAssemblyReference.cache

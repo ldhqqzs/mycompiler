@@ -1,0 +1,2 @@
+输入缓冲区			推导符号串			输出
+FUNCVOIDIDN:yxy(INTIDN:a,DOUBLEIDN:b){IF(IDN:a>INUM:3){FUZHIIDN:b=IDN:a+INUM:3;STRINGIDN:c;FUZHIIDN:c=}}#				S#
